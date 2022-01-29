@@ -1,3 +1,5 @@
+Use this files as source to help you advance in your dart study.
+
 This repository contains answers for dart exercises from Exercism.org and others sources.
 
-Use this files as source to help you advance in your dart study.
+All the answers use test to validate the result, if the test pass your answer was right.
